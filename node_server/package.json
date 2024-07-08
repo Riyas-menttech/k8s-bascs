@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "k8s-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
